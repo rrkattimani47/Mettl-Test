@@ -7,7 +7,7 @@ import  java.util.*;
 //Read only region
 
 class UserMainCode {
-public int lastDigitOf(int input1){
+public int addlastDigitOf(int input1){
 //Read only region end
 
 // Write code here...
